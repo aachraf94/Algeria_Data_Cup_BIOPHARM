@@ -1,0 +1,16 @@
+Event type,count
+Erreur,7823
+Avertissement,6773
+Info,4588
+Information_protection,3948
+Arrêt_durgence,3640
+-,2613
+Valeur,1376
+Avertissement_de_réserve,564
+Erreur_darrêt_rapide,411
+Avertissement_critique,277
+login,223
+logout,173
+Limite_du_processus,58
+démarrage,42
+Interruption_de_la connexion,31
